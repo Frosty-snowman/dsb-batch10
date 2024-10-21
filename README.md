@@ -4,7 +4,11 @@ My data science and analytics ptojects
 ## My personal projects
 
 1.SQL super market analysis
+
 2.SQL chirn analysis
+
 3.R programing - Pao yonh shub
+
 4.Looker GA4 Dashboard
+
 5.Linear regression
